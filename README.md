@@ -1,6 +1,6 @@
 # About
 
-This feature is to test connection from your instances.
+This feature is to add docker repo.
 
 # How to use?
 
